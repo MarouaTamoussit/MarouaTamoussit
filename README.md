@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarouaTamoussit
 - 👀 I’m interested in mobile and web development also AI 
-- 🌱 I’m currently learning mobile devlelopment
+- 🌱 I’m currently learning mobile development
 - 📫 How to reach me marouatamoussit008@gmail.com
 
 <!---
